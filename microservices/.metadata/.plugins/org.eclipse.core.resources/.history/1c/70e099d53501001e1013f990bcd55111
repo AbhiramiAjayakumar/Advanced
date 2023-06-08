@@ -1,0 +1,5 @@
+package com.aws.pipeline.resources;
+
+public class Connect {
+
+}

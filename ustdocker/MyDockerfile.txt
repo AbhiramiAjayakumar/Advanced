@@ -1,0 +1,5 @@
+FROM ubuntu
+MAINTAINER Abhirami
+RUN apt-get update
+RUN apt-get install gedit -y
+CMD /bin/echo "HelloCoherts from UST2023"
